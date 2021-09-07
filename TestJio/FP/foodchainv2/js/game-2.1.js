@@ -50,12 +50,17 @@ var mainChain = function() {
     }
 
     window.showAds = function() { // use this showAds func in your game levels/game over or maintain your ad frequency when to show ads
+		console.log("call window.showAds");
         if(VMAX.jioSDK_adReady){
             VMAX.showAd(VMAX.jioSDK_adId);
             console.log("showing ads on id: ", VMAX.jioSDK_adId);
         }
     }
-    cacheAds(); // cache once on page load
+	
+	setTimeout(() => {
+        cacheAds(); // cache once on page load
+    }, 3000);
+    // cacheAds(); // cache once on page load
 
     /* JIO SDK integration ends */
 
