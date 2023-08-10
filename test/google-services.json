@@ -1,0 +1,751 @@
+{
+  "project_info": {
+    "project_number": "10033793072",
+    "firebase_url": "https://asphalt-9-china.firebaseio.com",
+    "project_id": "asphalt-9-china",
+    "storage_bucket": "asphalt-9-china.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:805dd71b7b8ec3f35e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:4bc0bf7654c587115e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.aligames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:e6437c477d73c6ab5e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.am"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:48c5eeaa3c2aefb05e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.baidu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:2c3da1bd5e4d91bf5e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.bilibili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:45f08f883f63d0225e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.coolpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:fd54de6bcc483e905e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.huawei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:fd12532171dd78665e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.jrtt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:814b5d4748af52d25e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.lenovo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:33925b387ecee2c85e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.m4399"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:8de2525da1ade4345e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.mi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:ea0292412d32740d5e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.mz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:f20c470a62db99de5e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.nearme.gamecenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:7dfb88b034390e855e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.nubia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:3e8024e982d3e01c5e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.papa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:1c974a13fdaef7a95e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.qihoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:91396f8bc62335de5e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.samsung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:4e51a28ac3eaec385e05f5",
+        "android_client_info": {
+          "package_name": "com.aligames.kuang.kybc.vivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:ae7079378b85dc805e05f5",
+        "android_client_info": {
+          "package_name": "com.gameloft.android.BTCN.GloftA9BT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033793072:android:9af846978cf7afef5e05f5",
+        "android_client_info": {
+          "package_name": "com.tencent.tmgp.aligames.kybc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1xncjCOAomgnoaLtCWuIOA1n7_99iVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10033793072-kptbf75ojkqf2di3c5orls8g545sgi56.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10033793072-815tco2v5rlbrm47a9k93draprhgu6sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aligames.kybc9",
+                "app_store_id": "1434377838"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
