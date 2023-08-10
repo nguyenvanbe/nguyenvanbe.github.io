@@ -743,7 +743,7 @@ $("#modal").hide();
 
 			//----------------- Control -----------------//
 			function handleClick(event) {
-		
+				console.log("handleClick isLocked=" + isLocked);
 				// JackAuk lock Ios on potrait
 				if ((getOperatingSystem()=="iPad" ||getOperatingSystem()=="Macintosh"|| getOperatingSystem()=="iPhone") && !isLandscapeIOS())
 					{
@@ -753,11 +753,12 @@ $("#modal").hide();
 				// return;
 				var x = event.pageX - el.getBoundingClientRect().left;
 				var y = event.pageY - el.getBoundingClientRect().top;
-				if (!isLocked && (getOperatingSystem()!="iPad" || getOperatingSystem()!="iPhone"|| getOperatingSystem()!="Macintosh")) {
-					if ((x > actionAreaMenu[6].x) && (x < actionAreaMenu[6].x + actionAreaMenu[6].w) && (y > actionAreaMenu[6].y) && (y <actionAreaMenu[6].y + actionAreaMenu[6].h)) {
+				//if (!isLocked && (getOperatingSystem()!="iPad" || getOperatingSystem()!="iPhone"|| getOperatingSystem()!="Macintosh")) {
+				//	if ((x > actionAreaMenu[6].x) && (x < actionAreaMenu[6].x + actionAreaMenu[6].w) && (y > actionAreaMenu[6].y) && (y <actionAreaMenu[6].y + actionAreaMenu[6].h)) {
+						console.log("lockFullscreen");
 						lockFullscreen();						
-					}
-				}
+				//	}
+				//}
 			}
 
 			function handleStart(event) {
@@ -942,7 +943,7 @@ $("#modal").hide();
 					case "interactive": //console.log("onload - The document has finished loading and we can access DOM elements");
 						break;
 					case "complete":
-						//console.log("onload - The page is fully loaded");
+						console.log("onload - The page is fully loaded");
 						el.addEventListener("click", handleClick, false);
 						el.addEventListener("touchstart", handleStart, false);
 						el.addEventListener("touchmove", handleMove, false);
@@ -1840,8 +1841,8 @@ $("#modal").hide();
 
 			function onFullScreenChange() {
 				console.log("onFullScreenChange");
-				if (getOperatingSystem() == "Android"|| getOperatingSystem() == "Desktop")
-					isLocked = !isLocked;
+				//if (getOperatingSystem() == "Android"|| getOperatingSystem() == "Desktop")
+				//	isLocked = !isLocked;
 				if (!isLocked) {
 					drawRotateButton();
 				}
@@ -1887,7 +1888,7 @@ $("#modal").hide();
 			}
 
 			function browserDetect() {
-				/*let userAgent = navigator.userAgent;
+				let userAgent = navigator.userAgent;
 				if(userAgent.match(/opr\//i)){
 					return "opera";
 				} else if(userAgent.match(/chrome|chromium|crios/i)){
@@ -1900,8 +1901,7 @@ $("#modal").hide();
 					return "edge";
 				}else{
 					 return "No browser detection";
-				}*/
-				return "safari";
+				}
 				//log('You are using ' + browserName + " browser");
 			}
 
