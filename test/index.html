@@ -89,6 +89,9 @@
 	<!-- <canvas id="dpadCanvas" width="360" height="720" style="border:solid #080D11 1px;"> -->
 		<canvas id="dpadCanvas" width="360" height="720">
 </div>
+<div id="container" style="width: 100%; float:center;" align="center" class="centered-element">
+<p id="debug">debug text</p>
+</div>
 <div  class="modal-container" id="modal" style="display: block;">	
 	<div class="modal">
 		<h2>Connection lost</h2>
@@ -481,6 +484,7 @@ $("#modal").hide();
 			var imgCamera, imgCameraP, imgTouchDrive,imgTouchDriveP;
 			var dpadKeycodeCurrent = 0;
 
+			var debug = document.getElementById("debug");
 			var el = document.getElementById("dpadCanvas");
 			var ctx = el.getContext("2d");
 
@@ -1155,6 +1159,7 @@ $("#modal").hide();
 			}
 
 			function resizeCanvas() {
+				debug.innerText = window.innerWidth + ", " + window.innerHeight;
 				document.getElementById('dpadCanvas').width = window.innerWidth;
 				document.getElementById('dpadCanvas').height = window.innerHeight;
 				canvasW = document.getElementById('dpadCanvas').width;
@@ -1580,6 +1585,7 @@ $("#modal").hide();
 			//----------------- Update paint -----------------//
 			function updatePaint() {
 				console.log("updatePaint canvasW " + canvasW + " canvasH " + canvasH);
+				debug.innerText = window.innerWidth + ", " + window.innerHeight;
 				if (window.outerWidth != currentWidth) {
 					currentWidth = window.outerWidth;
 					if (getOperatingSystem()=="iPhone") {
